@@ -1,7 +1,3 @@
-Here’s a `README.md` template for your GitHub project, detailing the functionality of the code:
-
----
-
 # Hand Gesture Controlled Screen Brightness
 
 This project utilizes a combination of **OpenCV**, **MediaPipe**, and **screen_brightness_control** to control your computer's screen brightness using hand gestures. The program captures video from your webcam, detects hand landmarks, and calculates the distance between the tips of the thumb and index finger. Based on this distance, it adjusts the screen brightness dynamically.
